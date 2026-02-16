@@ -1,4 +1,4 @@
-# HomotopyContinuation_MFDEs
+# Homotopy_MFDEs
 This repository provides a Python program to solve a two-dimensional dynamical system of mixed-type functional differential equations (MFDEs) resulting from the Time-to-Build growth model derived in Lin (2018) [https://doi.org/10.1007/s10614-016-9633-9]
 
 ### A. The Python program 
